@@ -1,3 +1,5 @@
+
+#import required libraries
 library(ggmap)
 require(osrm)
 library(geosphere)
@@ -5,31 +7,34 @@ library(leaflet)
 library(tidyr)
 library(tidyverse)
 library(lubridate)
-fRouteDefs <- '/Users/wall0159/code/govHack2019/Priority-Route-Link-Details-2019.csv'; 
+
+# load data from open databases:
+# https://data.gov.au/dataset/ds-qld-5263cbd5-e569-4dc6-84b1-ad5e55fc9d1f/details?q=travel%20time
+# http://www.bom.gov.au/jsp/ncc/cdio/weatherData/av?p_nccObsCode=136&p_display_type=dailyDataFile&p_startYear=&p_c=&p_stn_num=040913
+# tmr.qld.gov.au/~/media/aboutus/corpinfo/Open%20data/bluetoothtraveltimes/Priority-Route-Bluetooth-field-descriptions.csv
+# tmr.qld.gov.au/~/media/aboutus/corpinfo/Open%20data/bluetoothtraveltimes/Priority-Route-Link-Details-2019.csv
+
+# these data contain the route times, using a pair of 4 digit codes to specify where the routes go
+fRouteTravelTimes = 'Priority-Route-Bluetooth-Travel-Times-Mar-2019.csv';
+routeTravelTimes = read.table(fRouteTravelTimes, header = TRUE, sep=",", stringsAsFactors = FALSE);
+
+# these data define the routes from the 4 digit codes, and also provide latitude/longitude value pairs for each end of the route
+fRouteDefs <- 'Priority-Route-Link-Details-2019.csv'; 
 routeDefs<-read.table(fRouteDefs, header = TRUE, sep=",", stringsAsFactors = FALSE)
 names(routeDefs)[3] <- 'lng'
 names(routeDefs)[4] <- 'lat'
 
-fRouteTravelTimes = '/Users/wall0159/code/govHack2019/Priority-Route-Bluetooth-Travel-Times-Mar-2019.csv';
-routeTravelTimes = read.table(fRouteTravelTimes, header = TRUE, sep=",", stringsAsFactors = FALSE);
-
-fBrisRain = '/Users/wall0159/code/govHack2019/mar19_BrisbaneRain.csv'
+# precipitation data for Brisbane, March 2019
+fBrisRain = 'mar19_BrisbaneRain.csv'
 brisRain <- read.table(fBrisRain, header = TRUE, sep=",", stringsAsFactors = FALSE)
-# rainFall <- c(12,13,21,23)
 brisRain$date <- as.POSIXct(paste(brisRain$Year, 
  str_pad(brisRain$Month,width = 2, pad = "0", side = "left"),
  str_pad(brisRain$Day, width = 2, pad = "0", side = "left"),sep="-"),format="%Y-%m-%d")
 names(brisRain)[6] <- 'rainfall'
 brisRain <- brisRain[,c(9,6)]
 
+# assemble the data, joining the various databases together
 routeTravelTimes$date <- as.POSIXct(routeTravelTimes$INTERVAL_END,format="%d/%m/%Y %H:%M")
-
-# rainTravelTimes <- full_join(routeTravelTimes, brisRain, by="date")
-# 
-# 
-# rainRoutes <- rainTravelTimes %>%
-#   gather("key", "value", "rainfall", -INTERVAL_END) %>%
-#   dplyr::mutate(key = str_replace(key, "X(.{4})\\.{2}(.{4})", "\\1 \\2"))
 
 rainRoutes <- routeTravelTimes %>%
   gather("key", "value", -INTERVAL_END) %>%
@@ -43,6 +48,7 @@ rainRoutes <- full_join(rainRoutes, brisRain, by="date")
 rainRoutes$propOfDay <- hour(rainRoutes$datetime) + minute(rainRoutes$datetime)/60
 # rainRoutes$timeOfDay <- strftime(rainRoutes$datetime, format="%H:%M:%S")
 
+# create a model linking rainfall to the morning commute duration
 morningRush = rainRoutes[abs(rainRoutes$propOfDay - 8.5)<0.55,]
 morningRush = morningRush[morningRush$value > 600,]
 mod <- lm(value ~ rainfall -1, morningRush)
@@ -52,12 +58,15 @@ ggplot(morningRush,aes(x=value))+geom_histogram()+facet_grid(rainfall ~ .)+theme
 
 plot(rainRoutes$rainfall, rainRoutes$value)
 
+# create a model linking rainfall to the afternoon commute duration
 arvoRush = rainRoutes[abs(rainRoutes$propOfDay - 17.5)<0.55,]
 mod <- lm(value ~ rainfall -1, arvoRush)
 summary(mod)
 ggplot(morningRush,aes(x=value))+geom_histogram()+facet_grid(rainfall ~ .)+theme_bw()
 plot(arvoRush$rainfall, arvoRush$value)
 
+# create a map showing the various routes and their sensitivity to trip time increases. 
+# The figure shows how the maximum trip duration relates to the average trip duration
 mod <- lm(value ~ rainfall -1, rainRoutes)
 summary(mod)
 plot(rainRoutes$rainfall)
