@@ -1,0 +1,219 @@
+LINK_DETAILS,ORIGIN_DESC,ORIGIN_LONGITUDE,ORIGIN_LATITUDE,DEST_DESC,DEST_LONGITUDE,DEST_LATITUDE
+1060->1025,Intersection of Gympie and Beams Roads (M1132),153.012445,-27.345904,200m South of the South Pine River Bridge (CS802),153.018374,-27.294241
+1025->1060,200m South of the South Pine River Bridge (CS802),153.018374,-27.294241,Intersection of Gympie and Beams Roads (M1132),153.012445,-27.345904
+1056->1098,Intersection Gympie and Rode Roads (M1113),153.030954,-27.393409,Intersection of Gympie Road and Sadlier Street (M1107),153.032472,-27.406837
+1097->1055,Intersection of Gympie and Stafford Roads M(1103),153.033587,-27.412669,Intersection of Gympie and Kedron Park Roads (M1101),153.036449,-27.415562
+1115->1015,Bruce Highway Murrumba Downs VMS (MET001),153.018229,-27.265953,Bruce Highway and Dohles Rocks Road Northbound off ramp,153.018289,-27.276611
+1161->1160,Corner of Sandgate Road and Roghan Road (M1228),153.05978,-27.343782,Intersection of Sandgate and Beams Road (M1226),153.060629,-27.353374
+1142->1125,Pacific Motorway north of Kessels Road Overpass (MET108),153.07361,-27.55818,Pacific Motorway near Gateway Mway Overpass (MET133),153.10332,-27.58179
+1092->1091,Intersection of Moggill Road and Kenmore Plaza Ent (M1808),152.949218,-27.507235,Interchange of Moggil Road and Western Freeway Ramps (M1803),152.963139,-27.502626
+1070->1097,Intersection of Stafford Road and Webster Road (M1982),153.016832,-27.410432,Intersection of Gympie and Stafford Roads M(1103),153.033587,-27.412669
+1055->1099,Intersection of Gympie and Kedron Park Roads (M1101),153.036449,-27.415562,Intersection of Kedron Park Road and Park Road (M1205),153.038791,-27.416209
+1074->1072,Interchange at Southern Cross Way and Airport Drive (M1291),153.077438,-27.412042,East West Arterial Near Widdop Street Off Ramp (VMS901),153.064874,-27.412182
+1072->1061,East West Arterial Near Widdop Street Off Ramp (VMS901),153.064874,-27.412182,Intersection of Sandgate Road and Junction Road (M1207),153.058345,-27.415987
+1133->1124,Western Freeway intersection with Miskin Street (MET059),152.98503,-27.47838,Western Freeway 4kms south of Toowong Roundabout (MET060),152.97111,-27.481865
+1085->1086,Intersection of Beaudesert and Boundary Roads (M1610),153.024209,-27.568404,Intersection of Beaudesert and Algester Roads (M1625),153.043196,-27.604383
+1086->1087,Intersection of Beaudesert and Algester Roads (M1625),153.043196,-27.604383,Intersection of Beaudesert and Compton Roads (M1626),153.051201,-27.611116
+1087->1088,Intersection of Beaudesert and Compton Roads (M1626),153.051201,-27.611116,Intersection of Beaudesert and Nottingham Roads (M1629),153.046612,-27.630345
+1071->1155,Intersection Logan Road and Gateway N/B Off Ramp (M2416 M2417),153.100291,-27.584587,Logan Road intersection with Underwood Road (M2422),153.107622,-27.593359
+1174->1173,Gympie Road and Kremzow Road,152.995121,-27.315113,South Pine Road and Kremzow Road (M2132),152.988289,-27.318263
+1546->1543,Warwick Road and Ash Road / Salesyards Road,152.750145,-27.65414,Warwick Road and Lobb Street (M2770),152.75047,-27.6424
+1523->1180,Limestone Street and East Street (M2747),152.760612,-27.6155,Intersection of Brisbane Road and East Road (M2748),152.760866,-27.614598
+1527->1532,Brisbane Road and South Station Road (M2741),152.788893,-27.614266,Brisbane Road and Mining Street (M2738),152.8068473,-27.61039079
+1543->1546,Warwick Road and Lobb Street (M2770),152.75047,-27.6424,Warwick Road and Ash Road / Salesyards Road,152.750145,-27.65414
+1077->1078,Intersection Finucane and McDonald Roads (M1336),153.235716,-27.524592,Intersection of Finucane Road and Delancey Street (M1360),153.2514,-27.523843
+1075->1064,Intersection of Finucane and Windermere Roads (M1332),153.215846,-27.522039,Intersection Old Cleveland Road and Moreton  Bay Road (M1327),153.200534,-27.521908
+1064->1063,Intersection Old Cleveland Road and Moreton  Bay Road (M1327),153.200534,-27.521908,Intersection of Old Cleveland Road and Redland Bay Road (M1324),153.189463,-27.520297
+1062->1107,Intersection of Old Cleveland and New Cleveland Roads (M1322),153.179409,-27.513619,Intersection of Old Cleveland Road and Tilley Road (M1320),153.14984,-27.50928
+1182->1515,Intersection of Anzac Avenue and Dohles Rocks Road (M2153),152.981581,-27.255154,Anzac Avenue and Station Street (M2158),152.980521,-27.268471
+1538->1573,Ipswich Motorway VMS NB approaching Harcourt Road (VMS-IM-01),152.956499,-27.573069,Ipswich Motorway near Oxley Road and Blunder Road Overpass(CCTV1602),152.981715,-27.565911
+1573->1090,Ipswich Motorway near Oxley Road and Blunder Road Overpass(CCTV1602),152.981715,-27.565911,Intersection of Ipswich Road and Granard Road (M1719),153.008583,-27.556261
+1006->1002,Intersection Kessels Road and Logan Road (M1415),153.081185,-27.560026,Kessels Road Intersection with Benaud Street (MKR124NC),153.075201,-27.561668
+1170->1172,Intersection of Old Northern Road and Jinker Track Road (M2115),152.974232,-27.364433,South Pine Road and Flamingo Road (M2125),152.963386,-27.345679
+1058->1059,Intersection Gympie and Webster Roads (M1119),153.023189,-27.373478,Intersection Gympie/Albany Creek/Robinson Rds (M1121-M1120),153.017151,-27.364449
+1060->1059,Intersection of Gympie and Beams Roads (M1132),153.012445,-27.345904,Intersection Gympie/Albany Creek/Robinson Rds (M1121-M1120),153.017151,-27.364449
+1015->1025,Bruce Highway and Dohles Rocks Road Northbound off ramp,153.018289,-27.276611,200m South of the South Pine River Bridge (CS802),153.018374,-27.294241
+1115->1007,Bruce Highway Murrumba Downs VMS (MET001),153.018229,-27.265953,Bruce Highway near Anzac Ave Interchange,153.016018,-27.245606
+1154->1160,Sandgate intersection with Zillmere Road (M1224),153.061526,-27.362922,Intersection of Sandgate and Beams Road (M1226),153.060629,-27.353374
+1160->1161,Intersection of Sandgate and Beams Road (M1226),153.060629,-27.353374,Corner of Sandgate Road and Roghan Road (M1228),153.05978,-27.343782
+1160->1154,Intersection of Sandgate and Beams Road (M1226),153.060629,-27.353374,Sandgate intersection with Zillmere Road (M1224),153.061526,-27.362922
+1154->1162,Sandgate intersection with Zillmere Road (M1224),153.061526,-27.362922,Corner of Sandgate Road and Pritchard Road (M1238),153.062519,-27.374563
+1178->1134,Pacific Motorway Northbound before Juliette Street (VMS PM05NB),153.04636,-27.5161,Pacific Motorway near Gaza Road (MET095),153.058641,-27.536229
+1261->1129,Pacific Motorway and Paradise Road (M5271),153.137379,-27.638481,Pacific Motorway South of Underwood Road Overpass (MET148),153.113632,-27.597731
+1094->1093,Intersection of Moggill and Rafting Ground Roads (M1820),152.924047,-27.51667,Intersection of Moggill Road and Kenmore Road (M1813),152.93782,-27.51032
+1132->1092,Moggill Road intersection with Brookfield Road (MET071),152.93906,-27.50716,Intersection of Moggill Road and Kenmore Plaza Ent (M1808),152.949218,-27.507235
+1093->1094,Intersection of Moggill Road and Kenmore Road (M1813),152.93782,-27.51032,Intersection of Moggill and Rafting Ground Roads (M1820),152.924047,-27.51667
+1094->1164,Intersection of Moggill and Rafting Ground Roads (M1820),152.924047,-27.51667,Corner of Moggill Road and Birkin Road (M1817),152.886833,-27.561966
+1123->1122,Western Freeway north of Moggil Road (MET068),152.96286,-27.50029,Western Freeway north of Fig Tree Pocket Road (MET080),152.956097,-27.515588
+1271->1140,Centenary Highway NB before Boundary Rd (MCH361),152.94762,-27.58494,Centenary Highway south of Progress Road (MET153),152.944756,-27.600092
+1084->1090,Intersection of Granard Road and Beaudesert Road (M1608),153.020891,-27.558503,Intersection of Ipswich Road and Granard Road (M1719),153.008583,-27.556261
+1090->1084,Intersection of Ipswich Road and Granard Road (M1719),153.008583,-27.556261,Intersection of Granard Road and Beaudesert Road (M1608),153.020891,-27.558503
+1173->1174,South Pine Road and Kremzow Road (M2132),152.988289,-27.318263,Gympie Road and Kremzow Road,152.995121,-27.315113
+1523->1530,Limestone Street and East Street (M2747),152.760612,-27.6155,Warwick Road - Church Street and Gray Street,152.76084,-27.62034
+1537->1539,Bloomfield Street and South Street (M1334),153.265567,-27.548265,Cleveland Redland Bay Road and Ziegenfusz Road (M1305),153.269945,-27.563365
+1534->1528,Cleveland Redland Bay Road and Colburn Avenue (M1337),153.281962,-27.585128,Cleveland-Redland Bay Road and Boundary Road / Gordon Road (M1362),153.28942,-27.60889
+1075->1076,Intersection of Finucane and Windermere Roads (M1332),153.215846,-27.522039,Intersection of Finucane and Vienna Roads (M1335),153.225824,-27.523536
+1174->1181,Gympie Road and Kremzow Road,152.995121,-27.315113,Intersection of Gympie Road and Todds Road (M2145),152.983062,-27.283191
+1067->1068,Intersection fo Wardell and Samford Road (M1915),152.990688,-27.422507,Intersection South Pine - Stafford and Griffith St (M1975),152.990859,-27.407367
+1067->1096,Intersection fo Wardell and Samford Road (M1915),152.990688,-27.422507,Intersection of Stewart Road and Elimatta Street (M1965),152.990927,-27.443454
+1002->1005,Kessels Road Intersection with Benaud Street (MKR124NC),153.075201,-27.561668,Kessels Road west of Estoril Street (MKR120CR),153.056791,-27.559611
+1083->1084,Intersection of Riaweena and Orange Grove Road (M1460),153.040328,-27.558853,Intersection of Granard Road and Beaudesert Road (M1608),153.020891,-27.558503
+1084->1083,Intersection of Granard Road and Beaudesert Road (M1608),153.020891,-27.558503,Intersection of Riaweena and Orange Grove Road (M1460),153.040328,-27.558853
+1083->1005,Intersection of Riaweena and Orange Grove Road (M1460),153.040328,-27.558853,Kessels Road west of Estoril Street (MKR120CR),153.056791,-27.559611
+1080->1130,Intersection Mt Gravatt-Capalaba and Broadwater Roads (M1386),153.111065,-27.546641,Gateway Motorway Interchange with Mt Gravatt-Capalaba (MET096),153.11794,-27.54488
+1058->1057,Intersection Gympie and Webster Roads (M1119),153.023189,-27.373478,Intersection Gympie and Hamilton Roads (M1116),153.030897,-27.385892
+1098->1097,Intersection of Gympie Road and Sadlier Street (M1107),153.032472,-27.406837,Intersection of Gympie and Stafford Roads M(1103),153.033587,-27.412669
+1131->1125,CCTV 1435 Pacific Motorway at Underwood Road,153.10997,-27.59229,Pacific Motorway near Gateway Mway Overpass (MET133),153.10332,-27.58179
+1093->1132,Intersection of Moggill Road and Kenmore Road (M1813),152.93782,-27.51032,Moggill Road intersection with Brookfield Road (MET071),152.93906,-27.50716
+1126->1120,Western Freeway near Seventeen Mile Rocks Road On-Ramp (MET094),152.946743,-27.537254,Sinnamon Road (MET091),152.9462,-27.53219
+1121->1122,Western Freeway North of Brisbane River (MET086),152.948896,-27.520382,Western Freeway north of Fig Tree Pocket Road (MET080),152.956097,-27.515588
+1123->1124,Western Freeway north of Moggil Road (MET068),152.96286,-27.50029,Western Freeway 4kms south of Toowong Roundabout (MET060),152.97111,-27.481865
+1122->1121,Western Freeway north of Fig Tree Pocket Road (MET080),152.956097,-27.515588,Western Freeway North of Brisbane River (MET086),152.948896,-27.520382
+1059->1171,Intersection Gympie/Albany Creek/Robinson Rds (M1121-M1120),153.017151,-27.364449,Albany Creek Road and Keong Road (M2126),152.977807,-27.347179
+1171->1172,Albany Creek Road and Keong Road (M2126),152.977807,-27.347179,South Pine Road and Flamingo Road (M2125),152.963386,-27.345679
+1530->1523,Warwick Road - Church Street and Gray Street,152.76084,-27.62034,Limestone Street and East Street (M2747),152.760612,-27.6155
+1165->1532,Intersection of Brisbane Road and River Road/Aberdare Road (M2736),152.83252,-27.59739,Brisbane Road and Mining Street (M2738),152.8068473,-27.61039079
+1533->1523,Brisbane Road - Chermside Road and Glebe Road (M2743),152.771185,-27.615117,Limestone Street and East Street (M2747),152.760612,-27.6155
+1539->1544,Cleveland Redland Bay Road and Ziegenfusz Road (M1305),153.269945,-27.563365,Boundary Road Roundabout and Redland Bay Road (M1380),153.279851,-27.58004
+1107->1062,Intersection of Old Cleveland Road and Tilley Road (M1320),153.14984,-27.50928,Intersection of Old Cleveland and New Cleveland Roads (M1322),153.179409,-27.513619
+1063->1064,Intersection of Old Cleveland Road and Redland Bay Road (M1324),153.189463,-27.520297,Intersection Old Cleveland Road and Moreton  Bay Road (M1327),153.200534,-27.521908
+1078->1077,Intersection of Finucane Road and Delancey Street (M1360),153.2514,-27.523843,Intersection Finucane and McDonald Roads (M1336),153.235716,-27.524592
+1077->1076,Intersection Finucane and McDonald Roads (M1336),153.235716,-27.524592,Intersection of Finucane and Vienna Roads (M1335),153.225824,-27.523536
+1063->1062,Intersection of Old Cleveland Road and Redland Bay Road (M1324),153.189463,-27.520297,Intersection of Old Cleveland and New Cleveland Roads (M1322),153.179409,-27.513619
+1172->1170,South Pine Road and Flamingo Road (M2125),152.963386,-27.345679,Intersection of Old Northern Road and Jinker Track Road (M2115),152.974232,-27.364433
+1156->1068,Intersection Old Northern Rd and Hamilton Rd (M2103),152.980755,-27.378457,Intersection South Pine - Stafford and Griffith St (M1975),152.990859,-27.407367
+1057->1056,Intersection Gympie and Hamilton Roads (M1116),153.030897,-27.385892,Intersection Gympie and Rode Roads (M1113),153.030954,-27.393409
+1007->1115,Bruce Highway near Anzac Ave Interchange,153.016018,-27.245606,Bruce Highway Murrumba Downs VMS (MET001),153.018229,-27.265953
+1025->1015,200m South of the South Pine River Bridge (CS802),153.018374,-27.294241,Bruce Highway and Dohles Rocks Road Northbound off ramp,153.018289,-27.276611
+1142->1134,Pacific Motorway north of Kessels Road Overpass (MET108),153.07361,-27.55818,Pacific Motorway near Gaza Road (MET095),153.058641,-27.536229
+1134->1178,Pacific Motorway near Gaza Road (MET095),153.058641,-27.536229,Pacific Motorway Northbound before Juliette Street (VMS PM05NB),153.04636,-27.5161
+1131->1129,CCTV 1435 Pacific Motorway at Underwood Road,153.10997,-27.59229,Pacific Motorway South of Underwood Road Overpass (MET148),153.113632,-27.597731
+1129->1260,Pacific Motorway South of Underwood Road Overpass (MET148),153.113632,-27.597731,Pacific Motorway NB south of Logan River (M5702),153.196872,-27.700087
+1092->1132,Intersection of Moggill Road and Kenmore Plaza Ent (M1808),152.949218,-27.507235,Moggill Road intersection with Brookfield Road (MET071),152.93906,-27.50716
+1072->1074,East West Arterial Near Widdop Street Off Ramp (VMS901),153.064874,-27.412182,Interchange at Southern Cross Way and Airport Drive (M1291),153.077438,-27.412042
+1097->1070,Intersection of Gympie and Stafford Roads M(1103),153.033587,-27.412669,Intersection of Stafford Road and Webster Road (M1982),153.016832,-27.410432
+1128->1126,Western Freeway near Dandenong Road (CTV1821),152.941439,-27.548368,Western Freeway near Seventeen Mile Rocks Road On-Ramp (MET094),152.946743,-27.537254
+1122->1123,Western Freeway north of Fig Tree Pocket Road (MET080),152.956097,-27.515588,Western Freeway north of Moggil Road (MET068),152.96286,-27.50029
+1124->1133,Western Freeway 4kms south of Toowong Roundabout (MET060),152.97111,-27.481865,Western Freeway intersection with Miskin Street (MET059),152.98503,-27.47838
+1124->1123,Western Freeway 4kms south of Toowong Roundabout (MET060),152.97111,-27.481865,Western Freeway north of Moggil Road (MET068),152.96286,-27.50029
+1140->1271,Centenary Highway south of Progress Road (MET153),152.944756,-27.600092,Centenary Highway NB before Boundary Rd (MCH361),152.94762,-27.58494
+1229->1127,Mount Lindesay Highway and Park Ridge Interchange (Camera 1665),153.038558,-27.698718,Mount Lindesay Highway I/change with Browns Plains Rd (SCR01),153.037835,-27.660163
+1082->1006,Intersection of Logan and Newnham Roads (M1417),153.088016,-27.566344,Intersection Kessels Road and Logan Road (M1415),153.081185,-27.560026
+1082->1270,Intersection of Logan and Newnham Roads (M1417),153.088016,-27.566344,Logan Road and Padstow Road / Miles Platting Road (M1419),153.092056,-27.575801
+1184->1172,South Pine Road and Old North Road (M2195),152.963875,-27.324691,South Pine Road and Flamingo Road (M2125),152.963386,-27.345679
+1171->1059,Albany Creek Road and Keong Road (M2126),152.977807,-27.347179,Intersection Gympie/Albany Creek/Robinson Rds (M1121-M1120),153.017151,-27.364449
+1532->1527,Brisbane Road and Mining Street (M2738),152.8068473,-27.61039079,Brisbane Road and South Station Road (M2741),152.788893,-27.614266
+1157->1528,Inter of Cleveland-Redland Bay Rd and German Church Rd (M1310),153.28741,-27.6256,Cleveland-Redland Bay Road and Boundary Road / Gordon Road (M1362),153.28942,-27.60889
+1539->1537,Cleveland Redland Bay Road and Ziegenfusz Road (M1305),153.269945,-27.563365,Bloomfield Street and South Street (M1334),153.265567,-27.548265
+1544->1534,Boundary Road Roundabout and Redland Bay Road (M1380),153.279851,-27.58004,Cleveland Redland Bay Road and Colburn Avenue (M1337),153.281962,-27.585128
+1076->1075,Intersection of Finucane and Vienna Roads (M1335),153.225824,-27.523536,Intersection of Finucane and Windermere Roads (M1332),153.215846,-27.522039
+1181->1515,Intersection of Gympie Road and Todds Road (M2145),152.983062,-27.283191,Anzac Avenue and Station Street (M2158),152.980521,-27.268471
+1090->1573,Intersection of Ipswich Road and Granard Road (M1719),153.008583,-27.556261,Ipswich Motorway near Oxley Road and Blunder Road Overpass(CCTV1602),152.981715,-27.565911
+1095->1096,Intersection of Jubilee Tce and Simpsons Road (M1960),152.985784,-27.457904,Intersection of Stewart Road and Elimatta Street (M1965),152.990927,-27.443454
+1096->1067,Intersection of Stewart Road and Elimatta Street (M1965),152.990927,-27.443454,Intersection fo Wardell and Samford Road (M1915),152.990688,-27.422507
+1068->1067,Intersection South Pine - Stafford and Griffith St (M1975),152.990859,-27.407367,Intersection fo Wardell and Samford Road (M1915),152.990688,-27.422507
+1006->1081,Intersection Kessels Road and Logan Road (M1415),153.081185,-27.560026,Intersection of Mt Gravatt-Capalaba Road and Newnham Road (M1389),153.090138,-27.55584
+1097->1098,Intersection of Gympie and Stafford Roads M(1103),153.033587,-27.412669,Intersection of Gympie Road and Sadlier Street (M1107),153.032472,-27.406837
+1056->1057,Intersection Gympie and Rode Roads (M1113),153.030954,-27.393409,Intersection Gympie and Hamilton Roads (M1116),153.030897,-27.385892
+1015->1115,Bruce Highway and Dohles Rocks Road Northbound off ramp,153.018289,-27.276611,Bruce Highway Murrumba Downs VMS (MET001),153.018229,-27.265953
+1061->1103,Intersection of Sandgate Road and Junction Road (M1207),153.058345,-27.415987,Sandgate Road Interection with Toombul Shopping Centre (M1206),153.0598,-27.40904
+1103->1061,Sandgate Road Interection with Toombul Shopping Centre (M1206),153.0598,-27.40904,Intersection of Sandgate Road and Junction Road (M1207),153.058345,-27.415987
+1135->1189,CCTV1406 Pacific Motorway at Hawthorne Street,153.032469,-27.487992,Pacific Motorway North of OKeefe Street  (VMS PM03),153.038091,-27.496342
+1091->1092,Interchange of Moggil Road and Western Freeway Ramps (M1803),152.963139,-27.502626,Intersection of Moggill Road and Kenmore Plaza Ent (M1808),152.949218,-27.507235
+1061->1099,Intersection of Sandgate Road and Junction Road (M1207),153.058345,-27.415987,Intersection of Kedron Park Road and Park Road (M1205),153.038791,-27.416209
+1136->1137,Centenary Highway and Ipswich Motorway Off-Ramp (MET123),152.94477,-27.571918,Western Freeway Near Sumners Road (MET111),152.93996,-27.557933
+1126->1128,Western Freeway near Seventeen Mile Rocks Road On-Ramp (MET094),152.946743,-27.537254,Western Freeway near Dandenong Road (CTV1821),152.941439,-27.548368
+1137->1136,Western Freeway Near Sumners Road (MET111),152.93996,-27.557933,Centenary Highway and Ipswich Motorway Off-Ramp (MET123),152.94477,-27.571918
+1127->1089,Mount Lindesay Highway I/change with Browns Plains Rd (SCR01),153.037835,-27.660163,Intersection of Beaudesert and Illaweena Roads (M1657),153.044859,-27.638382
+1088->1089,Intersection of Beaudesert and Nottingham Roads (M1629),153.046612,-27.630345,Intersection of Beaudesert and Illaweena Roads (M1657),153.044859,-27.638382
+1155->1071,Logan Road intersection with Underwood Road (M2422),153.107622,-27.593359,Intersection Logan Road and Gateway N/B Off Ramp (M2416 M2417),153.100291,-27.584587
+1071->1270,Intersection Logan Road and Gateway N/B Off Ramp (M2416 M2417),153.100291,-27.584587,Logan Road and Padstow Road / Miles Platting Road (M1419),153.092056,-27.575801
+1173->1184,South Pine Road and Kremzow Road (M2132),152.988289,-27.318263,South Pine Road and Old North Road (M2195),152.963875,-27.324691
+1529->1530,Warwick Road and Carr St (M2764),152.760224,-27.629509,Warwick Road - Church Street and Gray Street,152.76084,-27.62034
+1180->1533,Intersection of Brisbane Road and East Road (M2748),152.760866,-27.614598,Brisbane Road - Chermside Road and Glebe Road (M2743),152.771185,-27.615117
+1533->1527,Brisbane Road - Chermside Road and Glebe Road (M2743),152.771185,-27.615117,Brisbane Road and South Station Road (M2741),152.788893,-27.614266
+1527->1533,Brisbane Road and South Station Road (M2741),152.788893,-27.614266,Brisbane Road - Chermside Road and Glebe Road (M2743),152.771185,-27.615117
+1529->1543,Warwick Road and Carr St (M2764),152.760224,-27.629509,Warwick Road and Lobb Street (M2770),152.75047,-27.6424
+1544->1539,Boundary Road Roundabout and Redland Bay Road (M1380),153.279851,-27.58004,Cleveland Redland Bay Road and Ziegenfusz Road (M1305),153.269945,-27.563365
+1076->1077,Intersection of Finucane and Vienna Roads (M1335),153.225824,-27.523536,Intersection Finucane and McDonald Roads (M1336),153.235716,-27.524592
+1130->1080,Gateway Motorway Interchange with Mt Gravatt-Capalaba (MET096),153.11794,-27.54488,Intersection Mt Gravatt-Capalaba and Broadwater Roads (M1386),153.111065,-27.546641
+1059->1060,Intersection Gympie/Albany Creek/Robinson Rds (M1121-M1120),153.017151,-27.364449,Intersection of Gympie and Beams Roads (M1132),153.012445,-27.345904
+1007->1017,Bruce Highway near Anzac Ave Interchange,153.016018,-27.245606,At Boundary Road Interchange (M7084),152.99191,-27.21142
+1162->1154,Corner of Sandgate Road and Pritchard Road (M1238),153.062519,-27.374563,Sandgate intersection with Zillmere Road (M1224),153.061526,-27.362922
+1178->1189,Pacific Motorway Northbound before Juliette Street (VMS PM05NB),153.04636,-27.5161,Pacific Motorway North of OKeefe Street  (VMS PM03),153.038091,-27.496342
+1125->1131,Pacific Motorway near Gateway Mway Overpass (MET133),153.10332,-27.58179,CCTV 1435 Pacific Motorway at Underwood Road,153.10997,-27.59229
+1070->1069,Intersection of Stafford Road and Webster Road (M1982),153.016832,-27.410432,Intersection Stafford Road and Appleby Road (M1978),153.00783,-27.409158
+1120->1126,Sinnamon Road (MET091),152.9462,-27.53219,Western Freeway near Seventeen Mile Rocks Road On-Ramp (MET094),152.946743,-27.537254
+1138->1140,Centenary Highway near Waterford Road Overpass (MET171/172),152.9435,-27.61179,Centenary Highway south of Progress Road (MET153),152.944756,-27.600092
+1271->1136,Centenary Highway NB before Boundary Rd (MCH361),152.94762,-27.58494,Centenary Highway and Ipswich Motorway Off-Ramp (MET123),152.94477,-27.571918
+1136->1271,Centenary Highway and Ipswich Motorway Off-Ramp (MET123),152.94477,-27.571918,Centenary Highway NB before Boundary Rd (MCH361),152.94762,-27.58494
+1088->1087,Intersection of Beaudesert and Nottingham Roads (M1629),153.046612,-27.630345,Intersection of Beaudesert and Compton Roads (M1626),153.051201,-27.611116
+1089->1127,Intersection of Beaudesert and Illaweena Roads (M1657),153.044859,-27.638382,Mount Lindesay Highway I/change with Browns Plains Rd (SCR01),153.037835,-27.660163
+1270->1082,Logan Road and Padstow Road / Miles Platting Road (M1419),153.092056,-27.575801,Intersection of Logan and Newnham Roads (M1417),153.088016,-27.566344
+1184->1173,South Pine Road and Old North Road (M2195),152.963875,-27.324691,South Pine Road and Kremzow Road (M2132),152.988289,-27.318263
+1530->1529,Warwick Road - Church Street and Gray Street,152.76084,-27.62034,Warwick Road and Carr St (M2764),152.760224,-27.629509
+1064->1075,Intersection Old Cleveland Road and Moreton  Bay Road (M1327),153.200534,-27.521908,Intersection of Finucane and Windermere Roads (M1332),153.215846,-27.522039
+1515->1182,Anzac Avenue and Station Street (M2158),152.980521,-27.268471,Intersection of Anzac Avenue and Dohles Rocks Road (M2153),152.981581,-27.255154
+1096->1095,Intersection of Stewart Road and Elimatta Street (M1965),152.990927,-27.443454,Intersection of Jubilee Tce and Simpsons Road (M1960),152.985784,-27.457904
+1005->1083,Kessels Road west of Estoril Street (MKR120CR),153.056791,-27.559611,Intersection of Riaweena and Orange Grove Road (M1460),153.040328,-27.558853
+1068->1156,Intersection South Pine - Stafford and Griffith St (M1975),152.990859,-27.407367,Intersection Old Northern Rd and Hamilton Rd (M2103),152.980755,-27.378457
+1055->1097,Intersection of Gympie and Kedron Park Roads (M1101),153.036449,-27.415562,Intersection of Gympie and Stafford Roads M(1103),153.033587,-27.412669
+1098->1056,Intersection of Gympie Road and Sadlier Street (M1107),153.032472,-27.406837,Intersection Gympie and Rode Roads (M1113),153.030954,-27.393409
+1059->1058,Intersection Gympie/Albany Creek/Robinson Rds (M1121-M1120),153.017151,-27.364449,Intersection Gympie and Webster Roads (M1119),153.023189,-27.373478
+1017->1007,At Boundary Road Interchange (M7084),152.99191,-27.21142,Bruce Highway near Anzac Ave Interchange,153.016018,-27.245606
+1103->1162,Sandgate Road Interection with Toombul Shopping Centre (M1206),153.0598,-27.40904,Corner of Sandgate Road and Pritchard Road (M1238),153.062519,-27.374563
+1162->1103,Corner of Sandgate Road and Pritchard Road (M1238),153.062519,-27.374563,Sandgate Road Interection with Toombul Shopping Centre (M1206),153.0598,-27.40904
+1189->1135,Pacific Motorway North of OKeefe Street  (VMS PM03),153.038091,-27.496342,CCTV1406 Pacific Motorway at Hawthorne Street,153.032469,-27.487992
+1231->1239,South of Captain Cook Bridge (CS25),153.030813,-27.48291,North Quay north of Herschel Street (CS17),153.01865,-27.46871
+1239->1231,North Quay north of Herschel Street (CS17),153.01865,-27.46871,South of Captain Cook Bridge (CS25),153.030813,-27.48291
+1134->1142,Pacific Motorway near Gaza Road (MET095),153.058641,-27.536229,Pacific Motorway north of Kessels Road Overpass (MET108),153.07361,-27.55818
+1164->1094,Corner of Moggill Road and Birkin Road (M1817),152.886833,-27.561966,Intersection of Moggill and Rafting Ground Roads (M1820),152.924047,-27.51667
+1068->1069,Intersection South Pine - Stafford and Griffith St (M1975),152.990859,-27.407367,Intersection Stafford Road and Appleby Road (M1978),153.00783,-27.409158
+1099->1061,Intersection of Kedron Park Road and Park Road (M1205),153.038791,-27.416209,Intersection of Sandgate Road and Junction Road (M1207),153.058345,-27.415987
+1099->1055,Intersection of Kedron Park Road and Park Road (M1205),153.038791,-27.416209,Intersection of Gympie and Kedron Park Roads (M1101),153.036449,-27.415562
+1069->1068,Intersection Stafford Road and Appleby Road (M1978),153.00783,-27.409158,Intersection South Pine - Stafford and Griffith St (M1975),152.990859,-27.407367
+1137->1128,Western Freeway Near Sumners Road (MET111),152.93996,-27.557933,Western Freeway near Dandenong Road (CTV1821),152.941439,-27.548368
+1120->1121,Sinnamon Road (MET091),152.9462,-27.53219,Western Freeway North of Brisbane River (MET086),152.948896,-27.520382
+1140->1138,Centenary Highway south of Progress Road (MET153),152.944756,-27.600092,Centenary Highway near Waterford Road Overpass (MET171/172),152.9435,-27.61179
+1089->1088,Intersection of Beaudesert and Illaweena Roads (M1657),153.044859,-27.638382,Intersection of Beaudesert and Nottingham Roads (M1629),153.046612,-27.630345
+1087->1086,Intersection of Beaudesert and Compton Roads (M1626),153.051201,-27.611116,Intersection of Beaudesert and Algester Roads (M1625),153.043196,-27.604383
+1085->1084,Intersection of Beaudesert and Boundary Roads (M1610),153.024209,-27.568404,Intersection of Granard Road and Beaudesert Road (M1608),153.020891,-27.558503
+1127->1229,Mount Lindesay Highway I/change with Browns Plains Rd (SCR01),153.037835,-27.660163,Mount Lindesay Highway and Park Ridge Interchange (Camera 1665),153.038558,-27.698718
+1006->1082,Intersection Kessels Road and Logan Road (M1415),153.081185,-27.560026,Intersection of Logan and Newnham Roads (M1417),153.088016,-27.566344
+1270->1071,Logan Road and Padstow Road / Miles Platting Road (M1419),153.092056,-27.575801,Intersection Logan Road and Gateway N/B Off Ramp (M2416 M2417),153.100291,-27.584587
+1172->1184,South Pine Road and Flamingo Road (M2125),152.963386,-27.345679,South Pine Road and Old North Road (M2195),152.963875,-27.324691
+1543->1529,Warwick Road and Lobb Street (M2770),152.75047,-27.6424,Warwick Road and Carr St (M2764),152.760224,-27.629509
+1546->1158,Warwick Road and Ash Road / Salesyards Road,152.750145,-27.65414,Intersection of Warwick Rd and Powells Rd (M2761),152.738973,-27.660919
+1534->1544,Cleveland Redland Bay Road and Colburn Avenue (M1337),153.281962,-27.585128,Boundary Road Roundabout and Redland Bay Road (M1380),153.279851,-27.58004
+1062->1063,Intersection of Old Cleveland and New Cleveland Roads (M1322),153.179409,-27.513619,Intersection of Old Cleveland Road and Redland Bay Road (M1324),153.189463,-27.520297
+1005->1002,Kessels Road west of Estoril Street (MKR120CR),153.056791,-27.559611,Kessels Road Intersection with Benaud Street (MKR124NC),153.075201,-27.561668
+1002->1006,Kessels Road Intersection with Benaud Street (MKR124NC),153.075201,-27.561668,Intersection Kessels Road and Logan Road (M1415),153.081185,-27.560026
+1081->1080,Intersection of Mt Gravatt-Capalaba Road and Newnham Road (M1389),153.090138,-27.55584,Intersection Mt Gravatt-Capalaba and Broadwater Roads (M1386),153.111065,-27.546641
+1057->1058,Intersection Gympie and Hamilton Roads (M1116),153.030897,-27.385892,Intersection Gympie and Webster Roads (M1119),153.023189,-27.373478
+1125->1142,Pacific Motorway near Gateway Mway Overpass (MET133),153.10332,-27.58179,Pacific Motorway north of Kessels Road Overpass (MET108),153.07361,-27.55818
+1135->1231,CCTV1406 Pacific Motorway at Hawthorne Street,153.032469,-27.487992,South of Captain Cook Bridge (CS25),153.030813,-27.48291
+1231->1135,South of Captain Cook Bridge (CS25),153.030813,-27.48291,CCTV1406 Pacific Motorway at Hawthorne Street,153.032469,-27.487992
+1189->1178,Pacific Motorway North of OKeefe Street  (VMS PM03),153.038091,-27.496342,Pacific Motorway Northbound before Juliette Street (VMS PM05NB),153.04636,-27.5161
+1260->1261,Pacific Motorway NB south of Logan River (M5702),153.196872,-27.700087,Pacific Motorway and Paradise Road (M5271),153.137379,-27.638481
+1129->1131,Pacific Motorway South of Underwood Road Overpass (MET148),153.113632,-27.597731,CCTV 1435 Pacific Motorway at Underwood Road,153.10997,-27.59229
+1132->1093,Moggill Road intersection with Brookfield Road (MET071),152.93906,-27.50716,Intersection of Moggill Road and Kenmore Road (M1813),152.93782,-27.51032
+1069->1070,Intersection Stafford Road and Appleby Road (M1978),153.00783,-27.409158,Intersection of Stafford Road and Webster Road (M1982),153.016832,-27.410432
+1061->1072,Intersection of Sandgate Road and Junction Road (M1207),153.058345,-27.415987,East West Arterial Near Widdop Street Off Ramp (VMS901),153.064874,-27.412182
+1121->1120,Western Freeway North of Brisbane River (MET086),152.948896,-27.520382,Sinnamon Road (MET091),152.9462,-27.53219
+1128->1137,Western Freeway near Dandenong Road (CTV1821),152.941439,-27.548368,Western Freeway Near Sumners Road (MET111),152.93996,-27.557933
+1086->1085,Intersection of Beaudesert and Algester Roads (M1625),153.043196,-27.604383,Intersection of Beaudesert and Boundary Roads (M1610),153.024209,-27.568404
+1084->1085,Intersection of Granard Road and Beaudesert Road (M1608),153.020891,-27.558503,Intersection of Beaudesert and Boundary Roads (M1610),153.024209,-27.568404
+1172->1171,South Pine Road and Flamingo Road (M2125),152.963386,-27.345679,Albany Creek Road and Keong Road (M2126),152.977807,-27.347179
+1158->1546,Intersection of Warwick Rd and Powells Rd (M2761),152.738973,-27.660919,Warwick Road and Ash Road / Salesyards Road,152.750145,-27.65414
+1532->1165,Brisbane Road and Mining Street (M2738),152.8068473,-27.61039079,Intersection of Brisbane Road and River Road/Aberdare Road (M2736),152.83252,-27.59739
+1528->1534,Cleveland-Redland Bay Road and Boundary Road / Gordon Road (M1362),153.28942,-27.60889,Cleveland Redland Bay Road and Colburn Avenue (M1337),153.281962,-27.585128
+1528->1157,Cleveland-Redland Bay Road and Boundary Road / Gordon Road (M1362),153.28942,-27.60889,Inter of Cleveland-Redland Bay Rd and German Church Rd (M1310),153.28741,-27.6256
+1515->1181,Anzac Avenue and Station Street (M2158),152.980521,-27.268471,Intersection of Gympie Road and Todds Road (M2145),152.983062,-27.283191
+1181->1174,Intersection of Gympie Road and Todds Road (M2145),152.983062,-27.283191,Gympie Road and Kremzow Road,152.995121,-27.315113
+1573->1538,Ipswich Motorway near Oxley Road and Blunder Road Overpass(CCTV1602),152.981715,-27.565911,Ipswich Motorway VMS NB approaching Harcourt Road (VMS-IM-01),152.956499,-27.573069
+1133->1095,Western Freeway intersection with Miskin Street (MET059),152.98503,-27.47838,Intersection of Jubilee Tce and Simpsons Road (M1960),152.985784,-27.457904
+1095->1133,Intersection of Jubilee Tce and Simpsons Road (M1960),152.985784,-27.457904,Western Freeway intersection with Miskin Street (MET059),152.98503,-27.47838
+1170->1156,Intersection of Old Northern Road and Jinker Track Road (M2115),152.974232,-27.364433,Intersection Old Northern Rd and Hamilton Rd (M2103),152.980755,-27.378457
+1080->1081,Intersection Mt Gravatt-Capalaba and Broadwater Roads (M1386),153.111065,-27.546641,Intersection of Mt Gravatt-Capalaba Road and Newnham Road (M1389),153.090138,-27.55584
+1081->1006,Intersection of Mt Gravatt-Capalaba Road and Newnham Road (M1389),153.090138,-27.55584,Intersection Kessels Road and Logan Road (M1415),153.081185,-27.560026
+1156->1170,Intersection Old Northern Rd and Hamilton Rd (M2103),152.980755,-27.378457,Intersection of Old Northern Road and Jinker Track Road (M2115),152.974232,-27.364433
