@@ -1,0 +1,31 @@
+
+This Github repository contains the work of "are you really going to drive today?", govHack 2019 entrant
+
+Team comprised of:
+Jesse Bugden
+Rob England
+Angus Wallace
+
+This repository contains:
+PDF copy of our presentation
+R-code used to develop the models of traffic congestion vs rain, and also the maps containing the skewness of congestion data (the degree to which motor vehicle commuter times are highly sensitive to increased traffic volumes).
+archived exploraty Matlab code (now deprecated)
+Excel spreadsheet of our cost anlaysis for Brisbane commuter options -- investigating the costs of different transport modalities.
+
+
+
+Bibliography:
+"Urban Transport Crowding and Congestion" https://www.infrastructureaustralia.gov.au/publications/urban-transport-crowding-and-congestion
+p100 supports our analysis of the costs of congestion in Brisbane
+
+"Transport transitions in Copenhagen: Comparing the cost of cars and bicycles" https://www.sciencedirect.com/science/article/pii/S0921800915000907
+Table 3 supports our analysis quoted in the video
+
+"4 steps to tackling traffic congestion" https://www.weforum.org/agenda/2014/12/4-steps-to-tackling-traffic-congestion/
+Provides an argument for our solution -- namely, that a combination of public transport and information services provides much better value than building more car infrastructure
+
+"The Benefits of Public Transport" http://www.ttf.org.au
+"The estimated avoidable cost of urban traffic congestion in Australian capital cities is $12.9 billion in 2010."
+
+
+
